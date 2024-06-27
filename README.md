@@ -1,4 +1,3 @@
-# hello-world
 # Dominic James
 
 ## About Me
